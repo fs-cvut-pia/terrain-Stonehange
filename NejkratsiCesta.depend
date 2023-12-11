@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1701533728 source:c:\users\maxi_\onedrive\Рабочий стол\pia\silnice\nejkratsicesta\letadlo.cpp
+	"Letadlo.h"
+	<cmath>
+
+1701111429 c:\users\maxi_\onedrive\Рабочий стол\pia\silnice\nejkratsicesta\letadlo.h
+	"Path.h"
+	"TerrainMap.h"
+
+1701111429 c:\users\maxi_\onedrive\Рабочий стол\pia\silnice\nejkratsicesta\path.h
+	"TerrainMap.h"
+
+1701111429 c:\users\maxi_\onedrive\Рабочий стол\pia\silnice\nejkratsicesta\terrainmap.h
+	<cmath>
+	<vector>
+	<string>
+
+1701539274 source:c:\users\maxi_\onedrive\Рабочий стол\pia\silnice\nejkratsicesta\lod.cpp
+	"Lod.h"
+	<vector>
+	<cmath>
+	<iostream>
+
+1701111429 c:\users\maxi_\onedrive\Рабочий стол\pia\silnice\nejkratsicesta\lod.h
+	"Path.h"
+	"TerrainMap.h"
+
+1701539274 source:c:\users\maxi_\onedrive\Рабочий стол\pia\silnice\nejkratsicesta\main.cpp
+	"TerrainMap.h"
+	"Path.h"
+	<vector>
+	<iostream>
+	<string>
+	"Lod.h"
+	"Letadlo.h"
+
+1701111429 source:c:\users\maxi_\onedrive\Рабочий стол\pia\silnice\nejkratsicesta\path.cpp
+	"Path.h"
+	<cmath>
+	<fstream>
+	<iostream>
+
+1701111429 source:c:\users\maxi_\onedrive\Рабочий стол\pia\silnice\nejkratsicesta\terrainmap.cpp
+	"TerrainMap.h"
+	<fstream>
+	<exception>
+	<iostream>
+	<numeric>
+
